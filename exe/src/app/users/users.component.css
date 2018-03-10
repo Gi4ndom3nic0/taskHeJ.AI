@@ -1,0 +1,19 @@
+table {
+    border: 10px salmon solid;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+th {
+    background: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    padding: 20px;
+}

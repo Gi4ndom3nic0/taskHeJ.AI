@@ -1,0 +1,10 @@
+td {
+    color: yellow;
+    background: fuchsia;
+}
+
+button {
+    padding: 2px;
+    margin-left: 13px;
+    border: solid 2px
+}
